@@ -1,3 +1,3 @@
 # test-github-releases
 
-Please ignore this repository. It is used for testing GitHub releases.
+Please watch this repository. It is used for testing GitHub releases.
